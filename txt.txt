@@ -1,0 +1,11 @@
+Arrays, Herança e polimorfismo / Arrays, inheritance and polymorphism
+
+Uma forma de imprimir diferentes tipos de artistas e suas respectivas obras.
+Impressão de atributos exclusivos das subclasses.
+Remoção de elementos sorteados do array. 
+
+--
+
+A way to print different types of artists and their respective works.
+Printing of subclasses' unique attributes.
+Removal of randomly selected elements of the array. 
